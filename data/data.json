@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Тестировщик",
+        "url": "https://api.hh.ru/vacancies/120468412?host=hh.ru",
+        "salary": 0
+    },
+    {
+        "name": "Frontend Developer (React)",
+        "url": "https://api.hh.ru/vacancies/120505276?host=hh.ru",
+        "salary": 0
+    },
+    {
+        "name": "Manual QA Engineer",
+        "url": "https://api.hh.ru/vacancies/120515658?host=hh.ru",
+        "salary": 0
+    },
+    {
+        "name": "Тестировщик (QA engineer)",
+        "url": "https://api.hh.ru/vacancies/120529424?host=hh.ru",
+        "salary": 0
+    },
+    {
+        "name": "Manual QA Engineer",
+        "url": "https://api.hh.ru/vacancies/120515657?host=hh.ru",
+        "salary": 0
+    },
+    {
+        "name": "Юрист",
+        "url": "https://api.hh.ru/vacancies/120342229?host=hh.ru",
+        "salary": 750000
+    },
+    {
+        "name": "Senior/middle frontend разработчик в компанию",
+        "url": "https://api.hh.ru/vacancies/120471944?host=hh.ru",
+        "salary": 1500
+    },
+    {
+        "name": "HR менеджер",
+        "url": "https://api.hh.ru/vacancies/119496870?host=hh.ru",
+        "salary": 300000
+    },
+    {
+        "name": "Golang-разработчик",
+        "url": "https://api.hh.ru/vacancies/120393391?host=hh.ru",
+        "salary": 0
+    },
+    {
+        "name": "Frontend разработчик (React)",
+        "url": "https://api.hh.ru/vacancies/120528941?host=hh.ru",
+        "salary": 200000
+    },
+    {
+        "name": "React (middle) разработчик",
+        "url": "https://api.hh.ru/vacancies/120495287?host=hh.ru",
+        "salary": 8000000
+    },
+    {
+        "name": "Frontend Developer, React (Middle)",
+        "url": "https://api.hh.ru/vacancies/120530801?host=hh.ru",
+        "salary": 0
+    },
+    {
+        "name": "Юрист в единственном лице в производственно-торговую компанию",
+        "url": "https://api.hh.ru/vacancies/120518492?host=hh.ru",
+        "salary": 300000
+    },
+    {
+        "name": "Специалист / руководитель / коммерческий директор",
+        "url": "https://api.hh.ru/vacancies/120387279?host=hh.ru",
+        "salary": null
+    },
+    {
+        "name": "Торговый представитель",
+        "url": "https://api.hh.ru/vacancies/118484359?host=hh.ru",
+        "salary": null
+    },
+    {
+        "name": "Middle Unity Developer (можно из РФ/ИП)",
+        "url": "https://api.hh.ru/vacancies/120495587?host=hh.ru",
+        "salary": 1200
+    },
+    {
+        "name": "Manual QA Engineer (Middle+/Senior)",
+        "url": "https://api.hh.ru/vacancies/120530818?host=hh.ru",
+        "salary": 0
+    },
+    {
+        "name": "HR Generalist",
+        "url": "https://api.hh.ru/vacancies/120453872?host=hh.ru",
+        "salary": 500000
+    },
+    {
+        "name": "Frontend-разработчик",
+        "url": "https://api.hh.ru/vacancies/120528620?host=hh.ru",
+        "salary": 0
+    },
+    {
+        "name": "Junior Game Designer",
+        "url": "https://api.hh.ru/vacancies/120306445?host=hh.ru",
+        "salary": 0
+    }
+]
