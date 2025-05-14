@@ -1,0 +1,62 @@
+[
+    {
+        "name": "QA-инженер",
+        "url": "https://api.hh.ru/vacancies/120538651?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "умение тестировать REST API. — релевантный опыт от 3 лет, знание <highlighttext>Java</highlighttext>. Будет большим плюсом: Навык работы с автоматизированным или нагрузочным... участие в нагрузочном тестировании с использованием Jmeter. — проводить демонстрации работы функционала. — писать интеграционные тесты на <highlighttext>Java</highlighttext> с использованием JUnit 5..."
+    },
+    {
+        "name": "Тестировщик / Middle QA Engineer (ручное тестирование)",
+        "url": "https://api.hh.ru/vacancies/120457657?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Понимание, что такое API (REST + SOAP) и как его тестировать. Знание методов <highlighttext>разработки</highlighttext> ПО. Знание методов тест дизайна и... Поддержание и описание тестовой модели продукта. Написание тест-кейсов и чек листов. Функциональное, регрессионное, интеграционное и кроссбраузерное тестирование."
+    },
+    {
+        "name": "Бэкенд разработчик (Java)",
+        "url": "https://api.hh.ru/vacancies/120415050?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Экспертные знания: Умение работать в команде, давать и принимать конструктивную обратную связь. Желание постоянно совершенствоваться в профессии и изучать новые... Общение с архитекторами, аналитиками, frontend <highlighttext>разработчиками</highlighttext>, devops инженерами для уточнения требований и проработки технических решений. <highlighttext>Разработка</highlighttext> модульных тестов для своего..."
+    },
+    {
+        "name": "Senior QA Engineer",
+        "url": "https://api.hh.ru/vacancies/120516983?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Опыт автоматизации процесса тестирования (написание автоматических тестов). Умение читать и запускать код на python или <highlighttext>java</highlighttext>. Инженерный бэкграунд и опыт... ...за стабильность работы платформы в релизе. Участвовать в процессе автоматизации тестирования. Взаимодействовать с инженерами и <highlighttext>разработчиками</highlighttext> в рамках процесса <highlighttext>разработки</highlighttext>."
+    },
+    {
+        "name": "Junior specialist",
+        "url": "https://api.hh.ru/vacancies/120424033?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "JBPM (упрощенная <highlighttext>Java</highlighttext> на lowcode без хардкодной <highlighttext>разработки</highlighttext>). - Основы синтаксиса, циклы, условные конструкции. - Понимание классов и объектов, работа с методами.  Настраивать ChatBot, тестировать настройку и мониторить его работу на JBPM (упрощенная <highlighttext>Java</highlighttext> на lowcode без хардкодной <highlighttext>разработки</highlighttext>). Коммуникации с аналитиками..."
+    },
+    {
+        "name": "QA инженер. Проект ДМС Core.",
+        "url": "https://api.hh.ru/vacancies/120480067?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Средства автоматизации тестирования и опыт работы с автотестами: SoapUI, Selenium, Selenium WebDriver, <highlighttext>Java</highlighttext>, UI с использованием api, Allure, Jenkins (желательно).  Создание, доработка и актуализация тестовой модели (сценариев тестирования) в TM4J. <highlighttext>Разработка</highlighttext> автотестов согласно тестовой модели. Проведение manual и..."
+    },
+    {
+        "name": "Специалист по тестированию / QA Engineer",
+        "url": "https://api.hh.ru/vacancies/120456848?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Понимание одностраничных приложений (SPA). Знание Python. Знание <highlighttext>Java</highlighttext> на базовом уровне. Знание JavaScript на базовом уровне. Опыт работы с Cypress.  ...тестирования нескольких проектов. <highlighttext>Разработка</highlighttext> и поддержка автоматизированных тестов. Развитие фреймворка для автоматизации. Взаимодействие с аналитиками и командой <highlighttext>разработки</highlighttext> программного продукта."
+    },
+    {
+        "name": "Java developer",
+        "url": "https://api.hh.ru/vacancies/120403629?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Имеешь опыт в роли <highlighttext>разработчика</highlighttext> ПО на <highlighttext>Java</highlighttext> от 3-х лет. Имеешь опыт <highlighttext>разработки</highlighttext> REST API (OpenAPI).  Разрабатывать и поддерживать микросервисы для обработки потоков данных. Оптимизировать компоненты системы под highload. Реализовывать и поддерживать интеграции микросервисов с брокерами..."
+    },
+    {
+        "name": "Java-разработчик",
+        "url": "https://api.hh.ru/vacancies/120468416?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Передача знаний и наставничество. Знание <highlighttext>Java</highlighttext> 8+, <highlighttext>Java</highlighttext> EE, EJB, опыт работы с Oracle WebLogic Server и/или Apache... НРД включен Банком России в реестр операторов информационных систем и подключен к Оператору Обмена Московской биржи. <highlighttext>Разработка</highlighttext> ПО. Согласование требований."
+    },
+    {
+        "name": "Java-разработчик (Сениор, Мидл+)",
+        "url": "https://api.hh.ru/vacancies/120523291?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "От 3+ лет опыта в <highlighttext>разработке</highlighttext> программного обеспечения с акцентом на бэкэнд -системы. Сильное мастерство в <highlighttext>Java</highlighttext> и платформе... Глубокое понимание всего процесса <highlighttext>разработки</highlighttext> программного обеспечения (проектирование, <highlighttext>разработка</highlighttext>, тестирование и развертывание и т.д.). Вместе с системным архитектором: <highlighttext>разработка</highlighttext>..."
+    }
+]
