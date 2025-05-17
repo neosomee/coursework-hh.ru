@@ -58,5 +58,53 @@
         "url": "https://api.hh.ru/vacancies/120523291?host=hh.ru",
         "salary": "Зарплата не указана",
         "description": "От 3+ лет опыта в <highlighttext>разработке</highlighttext> программного обеспечения с акцентом на бэкэнд -системы. Сильное мастерство в <highlighttext>Java</highlighttext> и платформе... Глубокое понимание всего процесса <highlighttext>разработки</highlighttext> программного обеспечения (проектирование, <highlighttext>разработка</highlighttext>, тестирование и развертывание и т.д.). Вместе с системным архитектором: <highlighttext>разработка</highlighttext>..."
+    },
+    {
+        "name": "Middle QA Engineer",
+        "url": "https://api.hh.ru/vacancies/120522030?host=hh.ru",
+        "salary": 1200,
+        "description": "Опыт работы с JUnit 5, Allure, GitLab, Postman, <highlighttext>Java</highlighttext>, Selenide, Docker. Уровень английского языка от A2+ для устной... ...<highlighttext>разработки</highlighttext>. Создание баг-репортов, контроль релизов. Написание и актуализация тестовой документации (тест-кейсы, тест-планы). Актуализация и поддержка автотестов <highlighttext>Java</highlighttext>."
+    },
+    {
+        "name": "Junior Java Developer",
+        "url": "https://api.hh.ru/vacancies/120612956?host=hh.ru",
+        "salary": 300000,
+        "description": "У вас имеется результативный опыт написания приложений на Spring Framework, в т.ч. опыт проектирования приложений и их архитектуры.  Проектировать и разрабатывать backend приложений и их архитектуру. Производить оценку задач по проекту, предлагая наиболее эффективные решения, и участвовать в..."
+    },
+    {
+        "name": "Java-разработчик младшего/среднего уровня (junior/middle Java developer)",
+        "url": "https://api.hh.ru/vacancies/120556189?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Будет плюсом: Опыт работы с Spring Framework. Опыт <highlighttext>разработки</highlighttext> веб-сервисов (REST, SOAP). Опыт работы с СУБД Oracle или PostgreSQL..."
+    },
+    {
+        "name": "Java-разработчик (middle)",
+        "url": "https://api.hh.ru/vacancies/120429363?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "Проектирование интеграционного взаимодействия систем. <highlighttext>Java</highlighttext> 8+. Spring Framework (включая Spring Boot). PostgreSQL, Oracle. Docker. Hibernate. Git. Знание технологий apache... <highlighttext>Разработка</highlighttext> интеграций с внешними системами. Участие на всех этапах жизненного цикла разрабатываемого продукта в роли <highlighttext>разработчика</highlighttext> АС – <highlighttext>разработка</highlighttext>, как нового..."
+    },
+    {
+        "name": "Младший разработчик",
+        "url": "https://api.hh.ru/vacancies/120638280?host=hh.ru",
+        "salary": 60000,
+        "description": "Высокая обучаемость. Желательно знание Pl/sql, опыт работы с Oracle или PostgreSQL, знание языка scala/<highlighttext>java</highlighttext>, владение средой <highlighttext>разработки</highlighttext> IntelliJ..."
+    },
+    {
+        "name": "QA-инженер (middle)",
+        "url": "https://api.hh.ru/vacancies/120651266?host=hh.ru",
+        "salary": 100000,
+        "description": "Опыт с Selenium WebDriver, Playwright, Cypress (или аналогами). Базовые навыки программирования (Python/<highlighttext>Java</highlighttext>/JavaScript). Работа с CI/CD (Jenkins, GitLab... Поддержание стратегии и процесса тестирования в команде <highlighttext>разработки</highlighttext>, ведение тестовой документации (Confluence, Jira, Zefir). Проведение ручного тестирования (функциональное, регрессионное, интеграционное..."
+    },
+    {
+        "name": "Тестировщик ПО",
+        "url": "https://api.hh.ru/vacancies/120643038?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "...<highlighttext>разработки</highlighttext> и прохождения тестовых сценариев. Опыт тестирования REST API. Опыт работы с базами данных. Базовые знания автоматизированного тестирования на <highlighttext>Java</highlighttext>... Анализ технической документации на предмет соответствия стандартам. <highlighttext>Разработка</highlighttext> матрицы трассировки требований. <highlighttext>Разработка</highlighttext> и актуализация методик и стратегий тестирования."
+    },
+    {
+        "name": "Java-разработчик",
+        "url": "https://api.hh.ru/vacancies/120604906?host=hh.ru",
+        "salary": "Зарплата не указана",
+        "description": "ООП, SOLID, паттерны проектирования (GoF). Алгоритмы и структуры данных. Численные методы, дискретная математика, теория вероятности, вычислительная геометрия, мат. анализ.  Улучшать отраслевые библиотеки AnyLogic. Разрабатывать новые модули для продукта. Участвовать в проектировании архитектуры и код-ревью. Работать над R&D..."
     }
 ]

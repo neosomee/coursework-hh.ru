@@ -3,56 +3,64 @@ import json
 
 
 class Reader_ABC(ABC):
-
     @abstractmethod
     def save_vacancy(self, data_to_add):
+        """
+        Абстрактный метод для сохранения вакансии.
+        """
         pass
 
     @abstractmethod
     def read_vacancy(self):
+        """
+        Абстрактный метод для чтения вакансий из файла.
+        """
         pass
 
     @abstractmethod
     def delete_vacancy(self, vacancy_id):
+        """
+        Абстрактный метод для удаления вакансии по идентификатору.
+        """
         pass
 
-class WorkingWithData(Reader_ABC):
-    """
-    Класс для работы с файлами.
-    """
 
-    def __init__(self):
-        self.filepath = "data/data.json"
+class WorkingWithData(Reader_ABC):
+    def __init__(self, filepath: str):
+        """
+        Инициализация с указанием пути к файлу.
+        """
+        self.__filepath: str = filepath
 
     def read_vacancy(self):
         """
-        Метод для чтения файла.
+        Чтение списка вакансий из JSON-файла.
         """
-        with open(self.filepath, "r", encoding="utf-8") as file:
-            try:
+        try:
+            with open(self.__filepath, "r", encoding="utf-8") as file:
                 data = json.load(file)
                 return data if isinstance(data, list) else []
-            except json.JSONDecodeError:
-                return []
+        except (json.JSONDecodeError, FileNotFoundError):
+            return []
 
     def save_vacancy(self, data_to_add):
         """
-        Метод для добавления информации в файл.
+        Добавление вакансии в файл без дублирования.
         """
         existing_data = self.read_vacancy()
 
-        if isinstance(data_to_add, dict):
+        if not any(item.get("url") == data_to_add.get("url") for item in existing_data):
             existing_data.append(data_to_add)
 
-        with open(self.filepath, "w", encoding="utf-8") as file:
-            json.dump(existing_data, file, indent=4, ensure_ascii=False)
+            with open(self.__filepath, "w", encoding="utf-8") as file:
+                json.dump(existing_data, file, indent=4, ensure_ascii=False)
 
     def delete_vacancy(self, vacancy_id):
         """
-        Метод для удаления данных из файла и перезаписи.
+        Удаление вакансии по идентификатору из файла.
         """
         new_data = self.read_vacancy()
-        new_data = [data for data in new_data if data["id"] != vacancy_id]
+        new_data = [data for data in new_data if data.get("id") != vacancy_id]
 
-        with open(self.filepath, "w", encoding="utf-8") as file:
+        with open(self.__filepath, "w", encoding="utf-8") as file:
             json.dump(new_data, file, indent=4, ensure_ascii=False)
