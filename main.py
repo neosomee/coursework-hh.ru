@@ -4,13 +4,13 @@ from src.vacancies import Vacancies
 from src.file_reader_abc import WorkingWithData
 
 
-def main():
+def main() -> None:
     search_query = input("Введите поисковый запрос: ")
     top_n = int(input("Введите количество вакансий для вывода в топ N: "))
     filter_words = input("Введите ключевые слова для фильтрации вакансий (через пробел): ").split()
 
     hh_api = HeadHunterAPI()
-    data_handler = WorkingWithData()
+    data_handler = WorkingWithData(filepath="data/data.json")
 
     vacancies_data = hh_api.get_vacancies({"text": search_query, "per_page": top_n})
 
